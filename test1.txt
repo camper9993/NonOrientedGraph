@@ -1,0 +1,15 @@
+add_A
+add_B
+add_C
+add_D
+create_path_A_->_B:
+10
+create_path_B_->_C:
+9
+create_path_A_->_C:
+7
+create_path_A_->_D:
+1
+create_path_B_->_D:
+4
+delete_B
